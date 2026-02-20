@@ -321,7 +321,7 @@ section {
     transition: background-color .3s ease;
     flex-grow: 2;
 }
-.price_item:nth-child(2n) {
+section:nth-child(2n) {
     background-color: #f7d6ad;
 }
 
